@@ -1,2 +1,3 @@
 .vscode/
 .invasion_venv/
+__pycache__
