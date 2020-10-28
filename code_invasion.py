@@ -104,7 +104,6 @@ class AlienInvasion:
         available_space_y = (self.settings.screen_height - 
                                 (4 * alien_height) - ship_height)
         number_rows = available_space_y // (2 * alien_height)
-        print("number of rows:",number_rows)
         
         # Create the first row of aliens.
         for row_number in range(number_rows):  
