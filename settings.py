@@ -15,7 +15,7 @@ class Settings:
         self.bullet_width = 3
         self.bullet_height = 15
         self.bullet_color = (60, 60, 60)
-        self.bullets_allowed = 5
+        self.bullets_allowed = 3
         
         # Power ups
         self.bullets_weak = True
